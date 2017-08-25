@@ -1,0 +1,3 @@
+Event is just notification    
+EventArgs is the data ot the event
+Without delegates events will be useless
