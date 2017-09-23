@@ -5,3 +5,5 @@ This is a change I am making on a new branch and not directly on the master bran
 
 git-flow is an extension of working with branches.
 after you make a pull request, you don' have to resubmit.
+
+This is a change without running 'git pull upstream development'
